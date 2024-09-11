@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end architectures. Proficient in React, TypeScript, and various modern libraries and frameworks like NextJS, Material UI, and Tailwind. AI enthusiast obsessed with optimising performance with cutting edge prompts.
+I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end architectures. Proficient in React, TypeScript, and various modern libraries and frameworks like NextJS, Material UI, and Tailwind. 
+
+I am an AI enthusiast, and my main passion is optimizing development productivity by streamlining routine processes with AI assistants. From my experience, incorporating AI for tasks like commit generation, writing auto-tests and documentation, code review, and pull request management can increase productivity by up to 100%. Check out my custom tailored prompts library down below.
 
 ### 🧰 Languages and Tools
 <div style="display: flex; gap: 4px; justify-content: center">
