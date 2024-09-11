@@ -4,8 +4,7 @@ I am an experienced Software Development Engineer with over 12 years in IT, spec
 
 ### 🧰 Languages and Tools
 
-<div style="display: flex; gap: 4px; justify-content: center">
-<img alt="React" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+<img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" style="padding-right: 4px" />
 <img alt="React" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img alt="NodeJS" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
 <img alt="JavaScript" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
@@ -19,7 +18,6 @@ I am an experienced Software Development Engineer with over 12 years in IT, spec
 <img alt="GraphQl" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 <img alt="Linux" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img alt="Bash" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<div/>
 
 ## Contacts
 * 📋 [CV](https://bit.ly/3ZjoARH)
