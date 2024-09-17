@@ -4,6 +4,13 @@ I am an experienced Software Development Engineer with over 12 years in IT, spec
 
 I am an AI enthusiast, and my main passion is optimizing development productivity by streamlining routine processes with AI assistants. From my experience, incorporating AI for tasks like commit generation, writing auto-tests and documentation, code review, and pull request management can increase productivity by up to 100%. Check out my custom tailored prompts library down below.
 
+## Contacts
+* 📋 [CV](https://bit.ly/3ZjoARH)
+* ⭐ [Video Presentation](https://bit.ly/3zl4hZu)
+* 💼 [LinkedIn](https://bit.ly/3AZrWiG)
+* ▶️ [Telegram](https://bit.ly/3XD5k0s)
+* 🚀 [AI Prompts](https://bit.ly/3MFbOp3)
+
 ### 🧰 Languages and Tools
 <div style="display: flex; gap: 4px; justify-content: center">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -21,12 +28,3 @@ I am an AI enthusiast, and my main passion is optimizing development productivit
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 <div/>
-
-
-
-## Contacts
-* 📋 [CV](https://bit.ly/3ZjoARH)
-* ⭐ [Video Presentation](https://bit.ly/3zl4hZu)
-* 💼 [LinkedIn](https://bit.ly/3AZrWiG)
-* ▶️ [Telegram](https://bit.ly/3XD5k0s)
-* 🚀 [AI Prompts](https://bit.ly/3MFbOp3)
