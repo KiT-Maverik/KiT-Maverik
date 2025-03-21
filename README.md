@@ -186,11 +186,9 @@ tailored prompts library down below.
 
 # QA videos
 
-<div style="display: grid; gap: 20px; grid-template-columns: 1fr 1fr">
 <a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
 </a>
 <a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
 </a>
-</div>
