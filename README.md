@@ -11,11 +11,30 @@ tailored prompts library down below.
 
 ## Contacts
 
-* 📋 [CV](https://bit.ly/3ZjoARH)
-* ⭐ [Video Presentation](https://bit.ly/3zl4hZu)
-* 💼 [LinkedIn](https://bit.ly/3AZrWiG)
-* ▶️ [Telegram](https://bit.ly/3XD5k0s)
-* 🚀 [AI Prompts](https://bit.ly/3MFbOp3)
+<table style="width: 100%">
+  <tr>
+    <td>
+      <a href="https://bit.ly/3ZjoARH">
+        CV
+      </a>
+    </td>
+    <td>
+      <a href="https://bit.ly/3zl4hZu">
+        Video Presentation
+      </a>
+    </td>
+    <td>
+      <a href="https://bit.ly/3AZrWiG">
+        LinkedIn
+      </a>
+    </td>
+    <td>
+      <a href="https://bit.ly/3XD5k0s">
+        Telegram
+      </a>
+    </td>
+  </tr>
+</table>
 
 # Philosophy
 
@@ -165,7 +184,7 @@ tailored prompts library down below.
 </details>
 
 # 🧰 Languages and Tools
-<div style="display: flex; gap: 4px; justify-content: center">
+<div>
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
 <img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
@@ -182,24 +201,4 @@ tailored prompts library down below.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-
-
-# QA videos
-
-<table>
-  <tr>
-    <td>
-      <a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
-</a>
-    </td>
-    <td>
-      <a style="width: 48%" href="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay" target="_blank">
-<img alt="React" src="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay/maxresdefault.jpg" />
-</a>
-    </td>
-  </tr>
-</table>
-
-
-
