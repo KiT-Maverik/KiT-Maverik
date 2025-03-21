@@ -118,6 +118,10 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 </details>
 
 # QA videos
+<div style="display: flex; gap: 4px; justify-content: center">
+<img align="left" alt="React" width="300px" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+</div>
+
 http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup
 
 # 🧰 Languages and Tools
