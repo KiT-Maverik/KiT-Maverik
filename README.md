@@ -49,9 +49,19 @@ I am an AI enthusiast, and my main passion is optimizing development productivit
 <summary><b>Contract-Driven Development</b></summary>
 
 > Imagine being able to eliminate guesswork, build trust, and streamline communication across your entire software delivery pipeline—before a single line of implementation code is written. That’s what contract-driven development brings to the table.
-
+>
 > By defining clear, testable contracts up front, your team aligns instantly on the `what` and `how` of your APIs, empowering developers, testers, and product managers to work in harmony.
 The result? Robust, future-proofed integrations that can adapt gracefully to new business requirements. With contract-driven development, you’ll deliver high-quality software at a faster pace, keep stakeholders happy, and set your products apart with a standard of excellence everyone can rely on. In short, it’s not just a methodology—it's a smarter, more predictable path to success.
+</details>
+<details>
+<summary><b>Owner’s Mindset</b></summary>
+
+> Having worked in product companies, I treat every line of code like it's part of a product I personally own. From ideation to user experience, I'm driven to refine, improve, and go the extra mile—ensuring every release meets the highest standards for both performance and impact.
+</details>
+<details>
+<summary><b>Software Development Constitution</b></summary>
+
+> I believe nothing fosters efficient collaboration better than a clear, unified ruleset. I’ve created a `Software Development Constitution` covering coding standards, commit messages, naming conventions, and PR review guidelines—ensuring every team member aligns on best practices and delivers top-quality results.
 </details>
 <details>
 <summary><b>Storybook</b></summary>
@@ -68,16 +78,16 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 
 # Valuable skills
 <details>
-<summary><b>Material UI architecture</b></summary>
+<summary><b>Fluent English</b></summary>
 
-> Expert in designing applications from scratch, utilizing the full potential of the Material UI ecosystem to craft efficient, scalable, and visually cohesive solutions. I specialize in creating modular and reusable component libraries, implementing consistent design systems, and ensuring seamless integration with frontend and backend frameworks for optimized performance and user experience.
+> With a philosophy degree in English Philology and certification from the British Council, I’ve built my career at global product companies, bridging language and cultural gaps through precise, engaging communication. My expertise ensures seamless collaboration in any international setting.
 </details>
 <details>
-<summary><b>Technical Leadership</b></summary>
+<summary><b>UI/UX</b></summary>
 
-> Experienced in defining tools and technologies tailored to project requirements, ensuring optimal efficiency and alignment with team goals. 
+> As a front-end developer with a keen focus on UI/UX, I bridge the gap between design and development.
 > 
-> My leadership fosters innovation and streamlines the development process.
+> My experience includes creating design systems and implementing complex Figma projects for `WEB` and `VR`, ensuring seamless, user-centered products. This holistic skill set fosters collaboration with design teams and delivers polished, intuitive interfaces.
 </details>
 <details>
 <summary><b>Technical Writing</b></summary>
@@ -85,6 +95,11 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 > With a philology degree and extensive experience, I excel in crafting documentation for complex systems and supervising technical writing teams. 
 > 
 > I integrate AI-powered solutions to enhance efficiency, utilizing tools like GitHub, wikis, and Storybook for seamless documentation. My expertise includes integrating code documentation in Storybook and developing custom-tailored documentation to meet project-specific needs.
+</details>
+<details>
+<summary><b>Process management</b></summary>
+
+> Specialized in designing and implementing clear, effective, and self-sustaining development processes that prioritize team comfort and productivity. Expertise includes formal documentation-based code reviews, PR/MR supervision, process documentation, and leveraging tools like Jira with automation to streamline workflows and enhance transparency.
 </details>
 <details>
 <summary><b>Requirement engineering</b></summary>
@@ -106,7 +121,12 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 
 > I have extensive experience in interviewing candidates.
 >
-> After conducting more than 100 interviews, I developed a unique, objective evaluation process grounded in a custom skills matrix spanning key software development domains. Each interview results in a transparent, metrics-driven report within just one hour. This can streamline hiring, save time, and confidently choose the right talent, backed by data rather than subjective opinions.
+> `After conducting more than 100 interviews`, I developed a unique, objective evaluation process grounded in a custom skills matrix spanning key software development domains. Each interview results in a transparent, metrics-driven report within just one hour. This can streamline hiring, save time, and confidently choose the right talent, backed by data rather than subjective opinions.
+</details>
+<details>
+<summary><b>Public speaking</b></summary>
+
+> With years of experience presenting ideas, products, and companies to large audiences, I turn complex concepts into clear, engaging stories that inspire action. Whether it's a pitch, a keynote, or a demo, I know how to own the stage and win the room.
 </details>
 <details>
 <summary><b>Backend engineering</b></summary>
