@@ -11,7 +11,7 @@ I am an AI enthusiast, and my main passion is optimizing development productivit
 * ▶️ [Telegram](https://bit.ly/3XD5k0s)
 * 🚀 [AI Prompts](https://bit.ly/3MFbOp3)
 
-### 🧰 Languages and Tools
+# 🧰 Languages and Tools
 <div style="display: flex; gap: 4px; justify-content: center">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
 <img align="left" alt="React" width="30px" style="padding-right:10px;"  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg" />
