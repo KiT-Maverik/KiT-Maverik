@@ -44,7 +44,7 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 
 > I believe nothing fosters efficient collaboration better than a clear, unified ruleset. 
 > 
-> I’ve created a `Software Development Constitution` covering coding standards, commit messages, naming conventions, and PR review guidelines—ensuring every team member aligns on best practices and delivers top-quality results.
+> wI’ve created a `Software Development Constitution` covering coding standards, commit messages, naming conventions, and PR review guidelines—ensuring every team member aligns on best practices and delivers top-quality results.
 </details>
 <details>
 <summary><b>Storybook</b></summary>
@@ -117,6 +117,15 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 > While I don’t primarily position myself as a backend engineer, I bring valuable experience in the field, particularly with the MERN stack, Prisma, and AWS Lightsail. This expertise allows me to contribute effectively to backend development tasks as part of a comprehensive project solution.
 </details>
 
+# QA videos
+<!-- YouTube video cards from https://github.com/DenverCoder1/github-readme-youtube-cards -->
+<!-- If you want to display the latest videos, then simply follow the instructions in the above repo. -->
+<!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
+<!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
+<!-- BEGIN YOUTUBE-CARDS -->
+[![QAFest: interviewing SDET](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=Interviewing+SDET&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "QAFest: interviewing SDET")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+<!-- END YOUTUBE-CARDS -->
+
 # 🧰 Languages and Tools
 <div style="display: flex; gap: 4px; justify-content: center">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -134,3 +143,5 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
+
+> P.S. If you want to make a GitHub profile README like this, check out this tutorial!
