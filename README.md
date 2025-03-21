@@ -164,14 +164,6 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
-# QA videos
-
-<div style="display: flex; gap: 4px; justify-content: center">
-<a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
-<img align="left" alt="React" width="300px" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
-</a>
-</div>
-
 # 🧰 Languages and Tools
 <div style="display: flex; gap: 4px; justify-content: center">
 <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
@@ -190,4 +182,12 @@ tailored prompts library down below.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-> P.S. If you want to make a GitHub profile README like this, check out this tutorial!
+
+
+# QA videos
+
+<div style="display: flex; gap: 4px; justify-content: center">
+<a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
+<img align="left" alt="React" width="300px" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+</a>
+</div>
