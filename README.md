@@ -194,8 +194,8 @@ tailored prompts library down below.
 </a>
     </td>
     <td>
-      <a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
-<img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+      <a style="width: 48%" href="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay" target="_blank">
+<img alt="React" src="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay/maxresdefault.jpg" />
 </a>
     </td>
   </tr>
