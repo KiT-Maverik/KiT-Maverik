@@ -201,4 +201,20 @@ tailored prompts library down below.
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
 </div>
 
-<img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+
+
+<table style="width: 100%">
+  <tr>
+    <td>
+      <a href="https://bit.ly/3ZjoARH">
+        <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+      </a>
+    </td>
+    <td>
+      <a href="https://bit.ly/3ZjoARH">
+        <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+      </a>
+    </td>
+  </tr>
+</table>
+
