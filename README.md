@@ -42,7 +42,9 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 <details>
 <summary><b>Software Development Constitution</b></summary>
 
-> I believe nothing fosters efficient collaboration better than a clear, unified ruleset. I’ve created a `Software Development Constitution` covering coding standards, commit messages, naming conventions, and PR review guidelines—ensuring every team member aligns on best practices and delivers top-quality results.
+> I believe nothing fosters efficient collaboration better than a clear, unified ruleset. 
+> 
+> I’ve created a `Software Development Constitution` covering coding standards, commit messages, naming conventions, and PR review guidelines—ensuring every team member aligns on best practices and delivers top-quality results.
 </details>
 <details>
 <summary><b>Storybook</b></summary>
