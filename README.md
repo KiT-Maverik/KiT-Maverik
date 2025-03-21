@@ -123,7 +123,7 @@ The result? Robust, future-proofed integrations that can adapt gracefully to new
 <!-- If you however want to select which videos display, then you can manually generate the video link by changing the below parameters in angle brackets. -->
 <!-- https://ytcards.demolab.com/?id=<video ID>&title=<video+title>&lang=en&timestamp=<video publish date in Unix time format>&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=<video duration in seconds> "<video title>") -->
 <!-- BEGIN YOUTUBE-CARDS -->
-[![QAFest: interviewing SDET](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=Interviewing+SDET&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "QAFest: interviewing SDET")](https://youtu.be/Wjj21p3tvcg?si=b7QYksN87h0wsGpQ)
+[![QAFest: interviewing SDET](https://ytcards.demolab.com/?id=Wjj21p3tvcg&title=Interviewing+SDET&lang=en&timestamp=1636628400&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=436 "QAFest: interviewing SDET")](http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup)
 <!-- END YOUTUBE-CARDS -->
 
 # 🧰 Languages and Tools
