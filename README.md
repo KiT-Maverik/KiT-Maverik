@@ -190,4 +190,7 @@ tailored prompts library down below.
 <a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img align="left" alt="React" width="300px" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
 </a>
+<a href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
+<img align="left" alt="React" width="300px" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
+</a>
 </div>
