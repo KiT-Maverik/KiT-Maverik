@@ -27,4 +27,12 @@ I am an AI enthusiast, and my main passion is optimizing development productivit
 <img align="left" alt="GraphQl" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/graphql/graphql-plain.svg" />
 <img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="Bash" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
-<div/>
+</div>
+
+### Philosophy
+<details>
+<summary>AI-driven development</summary>
+Passionate about optimizing development productivity, I specialize in leveraging AI to streamline routine processes such as generating commit messages, writing automated tests, producing documentation, and managing code reviews and pull requests. My expertise includes creating a custom prompt library, ready for immediate implementation, which can boost productivity by up to 100%.
+
+> AI Prompts Portfolio: https://gist.github.com/KiT-Maverik
+</details>
