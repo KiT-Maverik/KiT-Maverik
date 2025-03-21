@@ -186,9 +186,20 @@ tailored prompts library down below.
 
 # QA videos
 
-<a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
+<table>
+  <tr>
+    <td>
+      <a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
 </a>
-<a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
+    </td>
+    <td>
+      <a style="width: 48%" href="http://youtube.com/watch?v=CHJTcIXaKyc&t=66s&ab_channel=FestGroup" target="_blank">
 <img alt="React" src="https://img.youtube.com/vi/CHJTcIXaKyc/maxresdefault.jpg" />
 </a>
+    </td>
+  </tr>
+</table>
+
+
+
