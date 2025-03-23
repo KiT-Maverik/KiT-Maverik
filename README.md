@@ -1,4 +1,6 @@
-<img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
+<a href="#"><!--
+--><img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
+--></a><!--
 --><a href="https://bit.ly/3zl4hZu"><!--
 --><img alt="React" width="20%" src="assets/sections/header/qr.png" />
 </a>
