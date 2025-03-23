@@ -1,5 +1,6 @@
 <img alt="React" width="100%" src="assets/sections/Header.svg" />
-    <a href="https://bit.ly/3ZjoARH">
+<img alt="React" width="100%" src="assets/sections/Header.svg" />
+    <a href="#">
 <img alt="React" width="100%" src="assets/qr-code.svg" />
 </a>
 <img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
