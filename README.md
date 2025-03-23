@@ -196,6 +196,7 @@ tailored prompts library down below.
 <table width="100%">
   <tr>
     <td>
+<h1>Philosophy</h1>
       <details>
 <summary><b>AI-driven development</b></summary>
 
@@ -259,8 +260,11 @@ tailored prompts library down below.
 > backend, and frontend teams is essential to the product success. This practice allows to finds bugs early in SDLC,
 > leading to reduced project costs and improved development efficiency.
 </details>
+<img src="assets/spacing_horizontal.png" alt="Horizontal spacing" width="100%" />
     </td>
     <td>
+
+<h1>Valuable skills</h1>
       <details>
 <summary><b>Fluent English</b></summary>
 
@@ -339,6 +343,7 @@ tailored prompts library down below.
 > with the MERN stack, Prisma, and AWS Lightsail. This expertise allows me to contribute effectively to backend
 > development tasks as part of a comprehensive project solution.
 </details>
+<img src="assets/spacing_horizontal.png" alt="Horizontal spacing" width="100%" />
     </td>
   </tr>
 </table>
