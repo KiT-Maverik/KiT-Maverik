@@ -176,7 +176,7 @@ tailored prompts library down below.
 </details>
 
 
-# Skills / Technologies / Tools
+# Knowledge matrix
 <img alt="React" width="100%" src="assets/sections/skills.png" />
 
 [//]: # (Contacts)
