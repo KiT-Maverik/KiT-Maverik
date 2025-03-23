@@ -343,12 +343,7 @@ tailored prompts library down below.
   </tr>
 </table>
 
-
-<div>
-  <img alt="Edge" width="100%" src="./assets/sections/footer/edge.png" />
-</div><!--
---><a href="https://bit.ly/3ZjoARH"><!--
---><img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
+<img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
 --></a><!--
 --><a href="https://bit.ly/3ZjoARH"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" /><!--
@@ -359,11 +354,6 @@ tailored prompts library down below.
 --><a href="https://bit.ly/3ZjoARH"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" /><!--
 --></a><!--
---><a href="https://bit.ly/3ZjoARH"><!--
---><img alt="React" width="100%" src="./assets/sections/footer/button_email.png" /><!--
---></a>
-
-| <img alt="Edge" width="100%" src="./assets/sections/footer/edge.png" /> |
-| --- |
-| <a href="https://bit.ly/3ZjoARH"><img alt="CV" width="25%" src="./assets/sections/footer/button_cv.png" /></a> <a href="https://bit.ly/3ZjoARH"><img alt="Video CV" width="25%" src="./assets/sections/footer/button_video-cv.png" /></a> <a href="https://bit.ly/3ZjoARH"><img alt="Telegram" width="25%" src="./assets/sections/footer/button_telegram.png" /></a> <a href="https://bit.ly/3ZjoARH"><img alt="LinkedIn" width="25%" src="./assets/sections/footer/button_linkedin.png" /></a> |
-| <a href="https://bit.ly/3ZjoARH"><img alt="Email" width="100%" src="./assets/sections/footer/button_email.png" /></a> |
+--><a href="https://bit.ly/3ZjoARH">
+<img alt="React" width="100%" src="./assets/sections/footer/button_email.png" />
+</a>
