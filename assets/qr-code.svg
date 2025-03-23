@@ -4,9 +4,9 @@
 </rect>
     <g filter="url(#filter0_d_106_490)">
 <g clip-path="url(#clip0_106_490)">
-    <a href="https://bit.ly/3ZjoARH">
+<!--    <a href="https://bit.ly/3ZjoARH">-->
         <rect x="4" y="4" width="84" height="84" rx="8" fill="white"/>
-    </a>
+<!--    </a>-->
 <mask id="mask0_106_490" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="9" y="9" width="74" height="74">
 <path d="M9.08594 35.6641H12.0391V32.7109C11.2558 32.7109 10.5047 33.0221 9.95089 33.5759C9.39707 34.1297 9.08594 34.8808 9.08594 35.6641Z" fill="white"/>
 <path d="M12.0391 38.6172V35.6641H9.08594C9.08594 36.4473 9.39707 37.1984 9.95089 37.7522C10.5047 38.3061 11.2558 38.6172 12.0391 38.6172Z" fill="white"/>
