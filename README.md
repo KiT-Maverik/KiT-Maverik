@@ -1,3 +1,5 @@
+<img alt="React" width="100%" src="assets/sections/Header.svg" />
+<img alt="React" width="100%" src="assets/qr-code.svg" />
 <img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
 --><img alt="React" width="20%" src="assets/sections/header/qr.png" />
 
