@@ -159,6 +159,19 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
+# 🧰 Content
+<a href="https://bit.ly/3ZjoARH">
+<img alt="React" width="32%" src="./assets/sections/content/qa/QA-Fest_thumbnail.png" />
+</a>
+<a href="https://bit.ly/3ZjoARH">
+<img alt="React" width="32%" src="./assets/sections/content/qa/ProQa_thumbnail.png" />
+</a>
+<a href="https://bit.ly/3ZjoARH">
+<img alt="React" width="32%" src="./assets/sections/content/qa/GoQA_thumbnail.png" />
+</a>
+
+
+
 # 🧰 Skills / Technologies / Tools
 <img alt="React" width="100%" src="assets/sections/skills.png" />
 
