@@ -1,4 +1,5 @@
-## Hi there 👋
+<img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
+--><img alt="React" width="20%" src="assets/sections/header/qr.png" />
 
 I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end
 architectures. Proficient in React, TypeScript, and various modern libraries and frameworks like NextJS, Material UI,
