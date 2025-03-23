@@ -345,18 +345,19 @@ tailored prompts library down below.
 
 
 <div>
-    <img alt="React" width="50%" src="./assets/sections/footer/button_cv.png" />
-    <img alt="React" width="50%" src="./assets/sections/footer/button_telegram.png" />
-<a href="https://bit.ly/3ZjoARH">
-    <img alt="React" width="100%" src="./assets/sections/footer/button_cv.png" />
-</a>
-<a href="https://bit.ly/3ZjoARH">
-    <img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" />
-</a>
-<a href="https://bit.ly/3ZjoARH">
-    <img alt="React" width="25%" src="./assets/sections/footer/button_telegram.png" />
-</a>
-<a href="https://bit.ly/3ZjoARH">
-    <img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" />
-</a>
+<img alt="React" width="50%" src="./assets/sections/footer/button_cv.png" /><!--
+--><img alt="React" width="50%" src="./assets/sections/footer/button_telegram.png" />
+
+<a href="https://bit.ly/3ZjoARH"><!--
+--><img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
+--></a><!--
+--><a href="https://bit.ly/3ZjoARH"><!--
+--><img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" /><!--
+--></a><!--
+--><a href="https://bit.ly/3ZjoARH"><!--
+--><img alt="React" width="25%" src="./assets/sections/footer/button_telegram.png" /><!--
+--></a><!--
+--><a href="https://bit.ly/3ZjoARH"><!--
+--><img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" /><!--
+--></a>
 </div>
