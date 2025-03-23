@@ -176,6 +176,6 @@ tailored prompts library down below.
 --><a href="https://bit.ly/3AZrWiG"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" /><!--
 --></a><!--
---><a href="https://bit.ly/3ZjoARH">
+--><a href="mailto:kit.maverik@gmail.com">
 <img alt="React" width="100%" src="./assets/sections/footer/button_email.png" />
 </a>
