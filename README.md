@@ -159,7 +159,7 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
-# 🧰 Content
+# Content
 <details>
 <summary><b>Public speaking / QA / UA</b></summary>
 <a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup">
@@ -174,7 +174,7 @@ tailored prompts library down below.
 </details>
 
 
-# 🧰 Skills / Technologies / Tools
+# Skills / Technologies / Tools
 <img alt="React" width="100%" src="assets/sections/skills.png" />
 
 [//]: # (Contacts)
