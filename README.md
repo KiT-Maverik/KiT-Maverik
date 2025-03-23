@@ -162,9 +162,9 @@ tailored prompts library down below.
 # 🧰 Skills / Technologies / Tools
 <img alt="React" width="100%" src="assets/sections/skills.png" />
 
-[//]: # (Footer)
+[//]: # (Contacts)
 
-<a href="https://bit.ly/3zl4hZu">
+<a href="https://bit.ly/3ZjoARH">
 <img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
 --></a><!--
 --><a href="https://bit.ly/3zl4hZu"><!--
