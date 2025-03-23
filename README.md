@@ -1,10 +1,7 @@
-<img alt="React" width="100%" src="assets/sections/Header.svg" />
-<img alt="React" width="100%" src="assets/sections/Header.svg" />
-    <a href="#">
-<img alt="React" width="100%" src="assets/qr-code.svg" />
-</a>
 <img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
+--><a href="https://bit.ly/3zl4hZu"><!--
 --><img alt="React" width="20%" src="assets/sections/header/qr.png" />
+</a>
 
 I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end
 architectures. Proficient in React, TypeScript, and various modern libraries and frameworks like NextJS, Material UI,
@@ -167,15 +164,16 @@ tailored prompts library down below.
 
 [//]: # (Footer)
 
+<a href="https://bit.ly/3zl4hZu">
 <img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
 --></a><!--
---><a href="https://bit.ly/3ZjoARH"><!--
+--><a href="https://bit.ly/3zl4hZu"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" /><!--
 --></a><!--
---><a href="https://bit.ly/3ZjoARH"><!--
+--><a href="https://bit.ly/3XD5k0s"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_telegram.png" /><!--
 --></a><!--
---><a href="https://bit.ly/3ZjoARH"><!--
+--><a href="https://bit.ly/3AZrWiG"><!--
 --><img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" /><!--
 --></a><!--
 --><a href="https://bit.ly/3ZjoARH">
