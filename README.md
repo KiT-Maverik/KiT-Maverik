@@ -163,13 +163,13 @@ tailored prompts library down below.
 <details>
 <summary><b>Public speaking / QA / UA</b></summary>
 <a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup"><!--
---><img alt="React" width="32%" src="./assets/sections/content/qa/QA-Fest_thumbnail.png" /><!--
+--><img alt="React" width="33.33%" src="./assets/sections/content/qa/QA-Fest_thumbnail.png" /><!--
 --></a><!--
 --><a href="https://www.youtube.com/watch?v=Siez-wHrNns&ab_channel=QAExpertsPro"><!--
---><img alt="React" width="32%" src="./assets/sections/content/qa/ProQa_thumbnail.png" /><!--
+--><img alt="React" width="33.33%" src="./assets/sections/content/qa/ProQa_thumbnail.png" /><!--
 --></a><!--
 --><a href="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay"><!--
---><img alt="React" width="32%" src="./assets/sections/content/qa/GoQA_thumbnail.png" /><!--
+--><img alt="React" width="33.33%" src="./assets/sections/content/qa/GoQA_thumbnail.png" /><!--
 --></a>
 </details>
 
