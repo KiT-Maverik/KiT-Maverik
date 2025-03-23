@@ -344,9 +344,9 @@ tailored prompts library down below.
 </table>
 
 
-
+<div>
 <a href="https://bit.ly/3ZjoARH">
-    <img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" />
+    <img alt="React" width="100%" src="./assets/sections/footer/button_cv.png" />
 </a>
 <a href="https://bit.ly/3ZjoARH">
     <img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" />
@@ -357,3 +357,4 @@ tailored prompts library down below.
 <a href="https://bit.ly/3ZjoARH">
     <img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" />
 </a>
+</div>
