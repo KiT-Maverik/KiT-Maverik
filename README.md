@@ -1,8 +1,5 @@
-<a href="#"><!--
---><img alt="React" width="80%" src="assets/sections/header/welcome.png" /><!--
---></a><!--
---><a href="https://bit.ly/3zl4hZu"><!--
---><img alt="React" width="20%" src="assets/sections/header/qr.png" />
+<a href="#">
+<img alt="React" width="100%" src="assets/sections/Header.png" />
 </a>
 
 I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end
@@ -164,15 +161,17 @@ tailored prompts library down below.
 # Content
 <details>
 <summary><b>Public speaking / QA / UA</b></summary>
+<div align="center">
 <a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup"><!--
---><img alt="React" width="33.33%" src="./assets/sections/content/qa/QA-Fest_thumbnail.png" /><!--
+--><img alt="React" width="30%" src="./assets/sections/content/qa/QA-Fest_thumbnail.png" /><!--
 --></a><!--
 --><a href="https://www.youtube.com/watch?v=Siez-wHrNns&ab_channel=QAExpertsPro"><!--
---><img alt="React" width="33.33%" src="./assets/sections/content/qa/ProQa_thumbnail.png" /><!--
+--><img alt="React" width="30%" src="./assets/sections/content/qa/ProQa_thumbnail.png" /><!--
 --></a><!--
 --><a href="https://www.youtube.com/watch?v=w1fCXg_-jDQ&ab_channel=QADay"><!--
---><img alt="React" width="33.33%" src="./assets/sections/content/qa/GoQA_thumbnail.png" /><!--
+--><img alt="React" width="30%" src="./assets/sections/content/qa/GoQA_thumbnail.png" /><!--
 --></a>
+</div>
 </details>
 
 
