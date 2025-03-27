@@ -11,7 +11,7 @@ AI assistants. From my experience, incorporating AI for tasks like commit genera
 documentation, code review, and pull request management can increase productivity by up to 100%. Check out my custom
 tailored prompts library down below.
 
-# Philosophy
+<h1 align="center">Philosophy</h1>
 
 <details>
 <summary><b>AI-driven development</b></summary>
@@ -77,7 +77,7 @@ tailored prompts library down below.
 > leading to reduced project costs and improved development efficiency.
 </details>
 
-# Valuable skills
+<h1 align="center">Valuable skills</h1>
 
 <details>
 <summary><b>Fluent English</b></summary>
@@ -158,7 +158,7 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
-# Content
+<h1 align="center">Content</h1>
 <details>
 <summary><b>Public speaking / QA / UA</b></summary>
 <div align="center">
@@ -174,6 +174,5 @@ tailored prompts library down below.
 </div>
 </details>
 
-
-# Knowledge matrix
+<h1 align="center">Knowledge matrix</h1>
 <img alt="React" width="100%" src="assets/sections/skills.png" />
