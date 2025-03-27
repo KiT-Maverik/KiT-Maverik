@@ -178,21 +178,3 @@ tailored prompts library down below.
 
 # Knowledge matrix
 <img alt="React" width="100%" src="assets/sections/skills.png" />
-
-[//]: # (Contacts)
-
-<a href="https://bit.ly/3ZjoARH">
-<img alt="React" width="25%" src="./assets/sections/footer/button_cv.png" /><!--
---></a><!--
---><a href="https://bit.ly/3zl4hZu"><!--
---><img alt="React" width="25%" src="./assets/sections/footer/button_video-cv.png" /><!--
---></a><!--
---><a href="https://bit.ly/3XD5k0s"><!--
---><img alt="React" width="25%" src="./assets/sections/footer/button_telegram.png" /><!--
---></a><!--
---><a href="https://bit.ly/3AZrWiG"><!--
---><img alt="React" width="25%" src="./assets/sections/footer/button_linkedin.png" /><!--
---></a><!--
---><a href="mailto:kit.maverik@gmail.com">
-<img alt="React" width="100%" src="./assets/sections/footer/button_email.png" />
-</a>
