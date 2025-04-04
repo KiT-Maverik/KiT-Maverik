@@ -160,6 +160,17 @@ tailored prompts library down below.
 
 <h1 align="center">Content</h1>
 <details>
+<summary><b>Articles</b></summary>
+<div align="center">
+<a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup"><!--
+--><img alt="React" width="48%" src="./assets/articles/ai-profiler.png" /><!--
+--></a><!--
+--><a href="https://www.youtube.com/watch?v=Siez-wHrNns&ab_channel=QAExpertsPro"><!--
+--><img alt="React" width="48%" src="./assets/articles/action-figure.png" /><!--
+--></a>
+</div>
+</details>
+<details>
 <summary><b>Public speaking / QA / UA</b></summary>
 <div align="center">
 <a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup"><!--
