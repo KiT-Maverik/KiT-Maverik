@@ -87,7 +87,7 @@ Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and e
 > ensures seamless collaboration in any international setting.
 </details>
 <details>
-<summary><b>UI/UX</b></summary>
+<summary><b>UX/UI</b></summary>
 
 > As a front-end developer with a keen focus on UI/UX, I bridge the gap between design and development.
 >
