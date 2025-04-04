@@ -158,7 +158,9 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
-<h1 align="center">Projects</h1>
+<h1 align="center">Showcase</h1>
+<details>
+<summary><b>Portfolio</b></summary>
 <div align="center">
 <a href="https://www.alteryx.com/"><!--
 --><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
@@ -167,6 +169,29 @@ tailored prompts library down below.
 --><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
 --></a>
 </div>
+</details>
+<details>
+<summary><b>Projects</b></summary>
+<div align="center">
+<a href="https://www.alteryx.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
+--></a><!--
+--><a href="https://spaceseven.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
+--></a>
+</div>
+</details>
+<details>
+<summary><b>Open-Source</b></summary>
+<div align="center">
+<a href="https://www.alteryx.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
+--></a><!--
+--><a href="https://spaceseven.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
+--></a>
+</div>
+</details>
 
 <h1 align="center">Content</h1>
 <details>
