@@ -159,17 +159,25 @@ Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and e
 </details>
 
 <h1 align="center">Showcase</h1>
+
 <details>
 <summary><b>Portfolio</b></summary>
 <div align="center">
-<a href="https://www.alteryx.com/"><!--
---><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
+<a href="https://leetcode.com/u/KiT_Koval"><!--
+--><img alt="React" width="48%" src="./assets/portfolio/leet-code.png" /><!--
 --></a><!--
---><a href="https://spaceseven.com/"><!--
---><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
+--><a href="https://www.figma.com/@kit_de"><!--
+--><img alt="React" width="48%" src="./assets/portfolio/ux-ui.png" /><!--
+--></a>
+<a href="https://icodethis.com/KiT_Gart"><!--
+--><img alt="React" width="48%" src="./assets/portfolio/i-code-this.png" /><!--
+--></a><!--
+--><a href="https://gist.github.com/KiT-Maverik"><!--
+--><img alt="React" width="48%" src="./assets/portfolio/prompt-engineering.png" /><!--
 --></a>
 </div>
 </details>
+
 <details>
 <summary><b>Projects</b></summary>
 <div align="center">
@@ -181,6 +189,7 @@ Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and e
 --></a>
 </div>
 </details>
+
 <details>
 <summary><b>Open-Source</b></summary>
 <div align="center">
