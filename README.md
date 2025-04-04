@@ -196,15 +196,20 @@ Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and e
 <h1 align="center">Content</h1>
 <details>
 <summary><b>Articles</b></summary>
-<div align="center">
-<a href="https://www.linkedin.com/posts/orlovn_ai-profiler-ai-prompt-engineering-activity-7313767966653710337--guz"><!--
---><img alt="React" width="48%" src="./assets/articles/ai-profiler.png" /><!--
---></a><!--
---><a href="https://www.linkedin.com/posts/orlovn_frontend-developer-react-nextjs-typescript-activity-7313534678332837889-s60D"><!--
---><img alt="React" width="48%" src="./assets/articles/action-figure.png" /><!--
---></a>
-</div>
+<ul>
+    <li>
+        <a href="https://www.linkedin.com/posts/orlovn_ai-profiler-ai-prompt-engineering-activity-7313767966653710337--guz">
+            [AI] How I built an AI_profiler, that tackles cover letters like a <s>pro</s> me
+        </a> 
+    </li>
+    <li>
+        <a href="https://www.linkedin.com/posts/orlovn_frontend-developer-react-nextjs-typescript-activity-7313534678332837889-s60D">
+            [AI] How to create trendy action figure collectible for LinkedIn
+        </a> 
+    </li>
+</ul>
 </details>
+
 <details>
 <summary><b>Public speaking / QA / UA</b></summary>
 <div align="center">
