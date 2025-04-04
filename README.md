@@ -193,11 +193,14 @@ Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and e
 <details>
 <summary><b>Open-Source</b></summary>
 <div align="center">
-<a href="https://www.alteryx.com/"><!--
---><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
+<a href="https://github.com/KiT-Maverik/jumpstart"><!--
+--><img alt="React" width="33.3%" src="./assets/open-source/jumpstart.png" /><!--
 --></a><!--
---><a href="https://spaceseven.com/"><!--
---><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
+--><a href="https://github.com/KiT-Maverik/cv"><!--
+--><img alt="React" width="33.3%" src="./assets/open-source/data-driven-cv.png" /><!--
+--></a><!--
+--><a href="https://github.com/KiT-Maverik/Profiler"><!--
+--><img alt="React" width="33.3%" src="./assets/open-source/ai-profiler.png" /><!--
 --></a>
 </div>
 </details>
