@@ -158,6 +158,16 @@ tailored prompts library down below.
 > development tasks as part of a comprehensive project solution.
 </details>
 
+<h1 align="center">Projects</h1>
+<div align="center">
+<a href="https://www.alteryx.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/alteryx.png" /><!--
+--></a><!--
+--><a href="https://spaceseven.com/"><!--
+--><img alt="React" width="48%" src="./assets/projects/spaceseven.png" /><!--
+--></a>
+</div>
+
 <h1 align="center">Content</h1>
 <details>
 <summary><b>Articles</b></summary>
