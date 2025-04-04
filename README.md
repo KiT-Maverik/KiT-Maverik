@@ -162,10 +162,10 @@ tailored prompts library down below.
 <details>
 <summary><b>Articles</b></summary>
 <div align="center">
-<a href="https://www.youtube.com/watch?v=CHJTcIXaKyc&ab_channel=FestGroup"><!--
+<a href="https://www.linkedin.com/posts/orlovn_ai-profiler-ai-prompt-engineering-activity-7313767966653710337--guz"><!--
 --><img alt="React" width="48%" src="./assets/articles/ai-profiler.png" /><!--
 --></a><!--
---><a href="https://www.youtube.com/watch?v=Siez-wHrNns&ab_channel=QAExpertsPro"><!--
+--><a href="https://www.linkedin.com/posts/orlovn_frontend-developer-react-nextjs-typescript-activity-7313534678332837889-s60D"><!--
 --><img alt="React" width="48%" src="./assets/articles/action-figure.png" /><!--
 --></a>
 </div>
