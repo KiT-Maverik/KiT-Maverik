@@ -2,14 +2,14 @@
 <img alt="React" width="100%" src="assets/sections/Header.png" />
 </a>
 
-I am an experienced Software Development Engineer with over 12 years in IT, specializing in building scalable front-end
-architectures. Proficient in React, TypeScript, and various modern libraries and frameworks like NextJS, Material UI,
-and Tailwind.
+Frontend architect shipping clean UI, fast flows, and zero-fluff code.
+Builder of reusable engines (📦 save $30k+), fan of contract-driven dev, and early-testing evangelist.
 
-I am an AI enthusiast, and my main passion is optimizing development productivity by streamlining routine processes with
-AI assistants. From my experience, incorporating AI for tasks like commit generation, writing auto-tests and
-documentation, code review, and pull request management can increase productivity by up to 100%. Check out my custom
-tailored prompts library down below.
+- 🚀 Scaling teams
+- ⏩ Speeding up launches
+- 💪 Making Storybook work overtime
+
+> [Check out my CV](https://kit-maverik.github.io/cv/)
 
 <h1 align="center">Philosophy</h1>
 
