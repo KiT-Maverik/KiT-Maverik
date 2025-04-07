@@ -1,5 +1,6 @@
+<h1 align="center">Hi, I'm Nick Orlov</h1>
 <a href="https://bit.ly/3Tn26vx">
-<img alt="React" width="100%" src="assets/sections/Header.png" />
+<img alt="React" width="100%" src="assets/cover.png" />
 </a>
 
 Frontend architect shipping clean UI, fast flows, and zero-fluff code.
